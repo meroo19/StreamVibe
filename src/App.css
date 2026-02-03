@@ -1,0 +1,10 @@
+body{
+    background-color: rgba(0, 0, 0, 0.945);
+    color: white;
+}
+.center{
+    text-align: center;
+}
+.free-trial{
+    background-image: url("./assets/Sub Container.png");
+}
